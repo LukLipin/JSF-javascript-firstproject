@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 // Get player's move from command line arguments
 const playerMove = process.argv[2];
 
